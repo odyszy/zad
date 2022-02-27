@@ -1,17 +1,20 @@
 picture nr3
-Za pomocą polecenia "character(X)." wyświetlamy wszystkie postacie.
-Za pomocą polecenia "bloodties(X)." wyświetlamy jakie postacie mają więzy krwi.
-Możemy sprawdzić więzy krwi dla danej postaci wpisując np. "bloodties(jon,X)."
+-polecenie:
+"character(X)." wyswietli nam wszystkie postaci,
+"bloodties(X)." ukaże więzy krwi postaci,
+"bloodties(jon,X)." pozwoli nam sprawdzić więzy krwi dla danej postaci,
 
 picture nr5
-Za pomocą polecenia "character(X)." wyświetlamy wszystkie postacie.
-Za pomocą polecenia "holdsAWeapon("imię postaci",X), weapons(X)." wyświetlamy jaką broń posiada postać np. holdsAWeapon(steve,X), weapons(X).
-female(X) wyświetli wszystkie kobiety.
-male(X) wyświetli wszystkich mężczyzn
+-polecenie:
+"character(X)." wyświetli nam wszystkie postaci,
+"holdsAWeapon("imię postaci",X), weapons(X)." wyświetli broń postaci,
+female(X) wyświetli wszystkie kobiety,
+male(X) wyświetli wszystkich mężczyzn,
 
 picture nr8 
-Za pomocą polecenia "character(X)." wyświetlamy wszystkie postacie.
-Za pomocą polecenia "loves("imie postaci",X)." wyświetlamy czy przyjaciół łączyły bliższe relacje. np.?- loves(phoebe,X).
-Za pomocą polecenia "eatLeftDessert(X)." wyświetlamy wszystkie postacie które wspólnie jedzą lewe lody.
-Za pomocą polecenia "eatRightDessert(X)." wyświetlamy wszystkie postacie które wspólnie jedzą prawe lody.
+-polecenie:
+"character(X)." wyświetli nam wszystkie postaci,
+"loves("imie postaci",X)." wyświetli czy przyjaciół łączyły bliższe relacje,
+"eatLeftDessert(X)." wyświetli wszystkie postacie które wspólnie jedzą lewe lody,
+"eatRightDessert(X)." wyświetli wszystkie postacie które wspólnie jedzą prawe lody,
 
