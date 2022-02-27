@@ -7,7 +7,6 @@ character(cersei).
 character(daenerys).
 character(olenna).
 
-
 bloodties(jon):- character(eddard),character(arya).
 bloodties(eddard):- character(arya),character(jon).
 bloodties(arya):- character(jon),character(eddard).
